@@ -1,5 +1,5 @@
 
-# I2 User Network Backend
+# User Network Backend
 
 Requirements: PostgreSQL & PostGIS 
 
