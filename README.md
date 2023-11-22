@@ -2,7 +2,7 @@
 
 ## Description
 
-This project aims to migrate JSON data into a relational database with PostGIS extension using Fastify for the backend. The formatted data is then used to generate a networking chart on the frontend using Next.js, Tailwind CSS, and the Nivo chart library. The primary purpose is to visualize relationships between users and allow users to add new connections.
+This project aims to migrate JSON data into a relational database with Sequelize ORM, using Fastify for the backend. The formatted data is then used to generate a networking chart on the frontend using Next.js, Tailwind CSS, and the Nivo chart library. The primary purpose is to visualize relationships between users and allow users to add new connections.
 
 ## Features
 
